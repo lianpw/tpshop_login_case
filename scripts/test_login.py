@@ -50,12 +50,13 @@ class TestLogin(unittest.TestCase):
                 # 点击退出
                 self.login.page_click_logout()
                 try:
+                    # 判断登录按钮是否存在
                     self.assertTrue(self.login.page_logout_success())
+                    # 点击登录按钮
+                    self.login.page_login_link()
                 except:
                     # 截图
                     self.login.page_printscreen()
-                # 点击登录按钮
-                self.login.page_login_link()
             except:
                 # 截图
                 self.login.page_printscreen()
