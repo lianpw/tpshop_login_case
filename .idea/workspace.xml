@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72868715-0f97-4ae3-9fa7-5df98f651565" name="Default" comment="" />
+    <list default="true" id="72868715-0f97-4ae3-9fa7-5df98f651565" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/case.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/case.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test_login.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,70 +15,60 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/case$Unittests_for_test_login_TestLogin.coverage" NAME="Unittests for test_login.TestLogin Coverage Results" MODIFIED="1594340712911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
-    <SUITE FILE_PATH="coverage/case$read_json.coverage" NAME="read_json Coverage Results" MODIFIED="1594293839843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/case$Unittests_for_test_calc_TestCalc.coverage" NAME="Unittests for test_calc.TestCalc Coverage Results" MODIFIED="1594348226136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../exercise/scripts" />
+    <SUITE FILE_PATH="coverage/case$read_json__1_.coverage" NAME="read_json (1) Coverage Results" MODIFIED="1594429583917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/case$Unittests_for_test_login_TestLogin.coverage" NAME="Unittests for test_login.TestLogin Coverage Results" MODIFIED="1594430733256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/case$reda_txt.coverage" NAME="reda_txt Coverage Results" MODIFIED="1594430693454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/case$read_txt.coverage" NAME="read_txt Coverage Results" MODIFIED="1594429064539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../exercise/tools" />
+    <SUITE FILE_PATH="coverage/case$read_json.coverage" NAME="read_json Coverage Results" MODIFIED="1594430674269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/case$exercise.coverage" NAME="exercise Coverage Results" MODIFIED="1594363865723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../exercise" />
     <SUITE FILE_PATH="coverage/case$Unittests_for_test_login_TestLogin_test_login.coverage" NAME="Unittests for test_login.TestLogin.test_login Coverage Results" MODIFIED="1594304375166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/case$page_login.coverage" NAME="page_login Coverage Results" MODIFIED="1594305655918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
     <SUITE FILE_PATH="coverage/case$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1594266383992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/base.py">
+      <file leaf-file-name="exercise.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../exercise/exercise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page/__init__.py">
+      <file leaf-file-name="login.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/login.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="125">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page_login.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page/page_login.py">
+      <file leaf-file-name="reda_txt.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/reda_txt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-50">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="177">
+              <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/login.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="read_json.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="read_json.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tools/read_json.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="275">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_login.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_login.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/test_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="127">
+              <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -90,6 +85,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -98,8 +96,21 @@
         <option value="$PROJECT_DIR$/tools/read_json.py" />
         <option value="$PROJECT_DIR$/page/__init__.py" />
         <option value="$PROJECT_DIR$/base/base.py" />
-        <option value="$PROJECT_DIR$/scripts/test_login.py" />
         <option value="$PROJECT_DIR$/data/login.json" />
+        <option value="$PROJECT_DIR$/../exercise/page/__init__.py" />
+        <option value="$PROJECT_DIR$/../exercise/base/get_driver.py" />
+        <option value="$PROJECT_DIR$/../exercise/page/page_calc.py" />
+        <option value="$PROJECT_DIR$/../exercise/base/base.py" />
+        <option value="$PROJECT_DIR$/../exercise/data/write.json" />
+        <option value="$PROJECT_DIR$/../exercise/tools/read_json.py" />
+        <option value="$PROJECT_DIR$/../exercise/scripts/test_calc.py" />
+        <option value="$PROJECT_DIR$/../exercise/data/calc.json" />
+        <option value="$PROJECT_DIR$/../exercise/data/calc.txt" />
+        <option value="$PROJECT_DIR$/../exercise/exercise.py" />
+        <option value="$PROJECT_DIR$/../exercise/tools/read_txt.py" />
+        <option value="$PROJECT_DIR$/data/login.txt" />
+        <option value="$PROJECT_DIR$/tools/reda_txt.py" />
+        <option value="$PROJECT_DIR$/scripts/test_login.py" />
       </list>
     </option>
   </component>
@@ -116,6 +127,9 @@
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -143,22 +157,21 @@
             <path>
               <item name="case" type="b2602c69:ProjectViewProjectNode" />
               <item name="case" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="case" type="b2602c69:ProjectViewProjectNode" />
-              <item name="case" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="case" type="b2602c69:ProjectViewProjectNode" />
-              <item name="case" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="case" type="b2602c69:ProjectViewProjectNode" />
               <item name="case" type="462c0819:PsiDirectoryNode" />
               <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="case" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="case" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,6 +187,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python\exercise" />
       <recent name="E:\python\case" />
       <recent name="E:\python\case\base" />
     </key>
@@ -190,7 +204,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests for test_login.TestLogin">
+    <configuration name="read_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="case" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/read_json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="reda_txt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="case" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/reda_txt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Unittests for test_login.TestLogin" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="case" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,9 +257,16 @@
       <option name="_new_target" value="&quot;test_login.TestLogin&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for test_login.TestLogin" />
+      <item itemvalue="Python.reda_txt" />
+      <item itemvalue="Python.read_json" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Unittests for test_login.TestLogin" />
+        <item itemvalue="Python.reda_txt" />
+        <item itemvalue="Python.read_json" />
       </list>
     </recent_temporary>
   </component>
@@ -225,34 +284,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.09 at 22h 52m 34s.xml">
+    <history-entry file="Unittests_for_test_calc_TestCalc - 2020.07.10 at 10h 18m 12s.xml">
+      <configuration name="Unittests for test_calc.TestCalc" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_calc_TestCalc - 2020.07.10 at 10h 19m 16s.xml">
+      <configuration name="Unittests for test_calc.TestCalc" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_calc_TestCalc - 2020.07.10 at 10h 30m 42s.xml">
+      <configuration name="Unittests for test_calc.TestCalc" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.11 at 09h 08m 16s.xml">
       <configuration name="Unittests for test_login.TestLogin" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.09 at 22h 54m 09s.xml">
+    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.11 at 09h 09m 03s.xml">
       <configuration name="Unittests for test_login.TestLogin" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.09 at 22h 55m 26s.xml">
+    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.11 at 09h 10m 43s.xml">
       <configuration name="Unittests for test_login.TestLogin" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.10 at 08h 10m 15s.xml">
+    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.11 at 09h 11m 16s.xml">
       <configuration name="Unittests for test_login.TestLogin" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.10 at 08h 11m 40s.xml">
+    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.11 at 09h 12m 43s.xml">
       <configuration name="Unittests for test_login.TestLogin" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.10 at 08h 13m 38s.xml">
+    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.11 at 09h 23m 33s.xml">
       <configuration name="Unittests for test_login.TestLogin" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.10 at 08h 15m 14s.xml">
-      <configuration name="Unittests for test_login.TestLogin" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.10 at 08h 22m 44s.xml">
-      <configuration name="Unittests for test_login.TestLogin" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.10 at 08h 24m 44s.xml">
-      <configuration name="Unittests for test_login.TestLogin" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.10 at 08h 26m 08s.xml">
+    <history-entry file="Unittests_for_test_login_TestLogin - 2020.07.11 at 09h 26m 23s.xml">
       <configuration name="Unittests for test_login.TestLogin" configurationId="tests" />
     </history-entry>
   </component>
@@ -263,24 +322,24 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5313531" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.47933885" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37685952" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3983471" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289256" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +354,71 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../exercise/exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../exercise/log/log01.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/page_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/login.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/read_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/base/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
@@ -353,9 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="13" column="35" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -399,16 +520,6 @@
     <entry file="file://$PROJECT_DIR$/img/2020-07-09 21-36-19.png" />
     <entry file="file://$PROJECT_DIR$/img/2020-07-09 21-52-32.png" />
     <entry file="file://$PROJECT_DIR$/img/2020-07-09 21-44-14.png" />
-    <entry file="file://$PROJECT_DIR$/base/get_driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/2020-07-09 22-07-28.png" />
     <entry file="file://$PROJECT_DIR$/img/2020-07-09 22-13-36.png" />
     <entry file="file://$PROJECT_DIR$/page/__init__.py">
@@ -427,7 +538,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/base/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="975">
           <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -435,40 +546,145 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/read_json.py">
+    <entry file="file://$PROJECT_DIR$/img/2020-07-10 08-25-40.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../exercise/page/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/login.json">
+    <entry file="file://$PROJECT_DIR$/../exercise/base/get_driver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        <state>
+          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../exercise/scripts/test_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../exercise/base/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page/page_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/2020-07-10 08-25-40.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/../exercise/page/page_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../exercise/data/calc.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6645">
+          <caret line="1737" column="4" selection-start-line="1737" selection-start-column="4" selection-end-line="1737" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../exercise/log/log01.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../exercise/data/calc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/get_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../exercise/tools/read_txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/login.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="41" column="3" lean-forward="true" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../exercise/exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../exercise/tools/read_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/reda_txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/login.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="127">
+          <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/read_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>

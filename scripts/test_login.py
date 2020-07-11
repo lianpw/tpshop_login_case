@@ -4,14 +4,21 @@ from parameterized import parameterized
 from page.page_login import PageLogin
 from tools.read_json import read_json
 from base.get_driver import GetDriver
+from tools.reda_txt import read_txt
 
 
 def get_data():
-    datas = read_json('login.json')
+    # datas = read_json('login.json')
+    # arrs = []
+    # for data in datas.values():
+    #     arrs.append((data.get('username'), data.get('password'), data.get('verify_code'), data.get('expect_result'),
+    #                  data.get('success')))
+    # return arrs
+
+    datas = read_txt('login.txt')
     arrs = []
-    for data in datas.values():
-        arrs.append((data.get('username'), data.get('password'), data.get('verify_code'), data.get('expect_result'),
-                     data.get('success')))
+    for data in datas:
+        arrs.append(tuple(data.strip().split(',')))
     return arrs
 
 
@@ -31,7 +38,9 @@ class TestLogin(unittest.TestCase):
     @parameterized.expand(get_data())
     def test_login(self, username, pwd, code, expect, success):
         self.login.page_login(username, pwd, code)
-        if success:
+        # 注意: 如果读取的是txt文件,那么结果是字符串True,读取的是json格式则是bool值True
+        # if success:
+        if success == 'True':
             sleep(2)
             try:
                 # 判断安全退出是否存在
